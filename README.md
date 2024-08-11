@@ -18,7 +18,7 @@ The series is broken up into two parts; a hardware and software section. Each pa
 [7. Virtual Machine I: Processing](Software/Project&#32;7/virtual_machine_i.md)  
 [8. Virtual Machine II: Control](Software/Project&#32;8/virtual_machine_ii.md)  
 [9.  High-Level Language](Software/Project&#32;9/high_level_language.md)  
-[10. Compiler I: Syntax Analysis](Software/Project&#32;10/compiler_i.md)
+[10. Compiler I: Syntax Analysis](Software/Project&#32;10/compiler_i.md)  
 [11. Compiler II: Code Generation](Software/Project&#32;11/compiler_ii.md)  
 [12. Operating System](Software/Project&#32;12/operating_systems.md)  
 
